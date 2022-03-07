@@ -909,7 +909,7 @@ python-versions = ">=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*"
 
 [[package]]
 name = "recommonmark"
-version = "0.6.0"
+version = "0.7.1"
 description = "A docutils-compatibility bridge to CommonMark, enabling you to write CommonMark inside of Docutils & Sphinx projects."
 category = "dev"
 optional = false
@@ -1287,7 +1287,7 @@ testing = ["pytest (>=4.6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytes
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.6"
-content-hash = "924b692f42c5b45e28c771ce997fce9ecb16db9f77c05b22bc0620360130926a"
+content-hash = "34a89c032f14f0aa75fd2a1578effa6164693c9961fc2db86a9284395a629918"
 
 [metadata.files]
 alabaster = [
@@ -1897,8 +1897,8 @@ qtpy = [
     {file = "QtPy-1.11.3.tar.gz", hash = "sha256:d427addd37386a8d786db81864a5536700861d95bf085cb31d1bea855d699557"},
 ]
 recommonmark = [
-    {file = "recommonmark-0.6.0-py2.py3-none-any.whl", hash = "sha256:2ec4207a574289355d5b6ae4ae4abb29043346ca12cdd5f07d374dc5987d2852"},
-    {file = "recommonmark-0.6.0.tar.gz", hash = "sha256:29cd4faeb6c5268c633634f2d69aef9431e0f4d347f90659fd0aab20e541efeb"},
+    {file = "recommonmark-0.7.1-py2.py3-none-any.whl", hash = "sha256:1b1db69af0231efce3fa21b94ff627ea33dee7079a01dd0a7f8482c3da148b3f"},
+    {file = "recommonmark-0.7.1.tar.gz", hash = "sha256:bdb4db649f2222dcd8d2d844f0006b958d627f732415d399791ee436a3686d67"},
 ]
 requests = [
     {file = "requests-2.26.0-py2.py3-none-any.whl", hash = "sha256:6c1246513ecd5ecd4528a0906f910e8f0f9c6b8ec72030dc9fd154dc1a6efd24"},
